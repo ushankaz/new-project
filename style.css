@@ -1,0 +1,12 @@
+body{
+    background: url(minecraft_photo.jpg);
+}
+.logo{
+    width: 40%;
+    height: 40%;
+
+}
+header{
+    display: flex;
+    justify-content: center;
+}
